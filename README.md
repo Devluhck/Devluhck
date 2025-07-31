@@ -68,3 +68,8 @@
     <img align="center" alt="Database" height="30" width="40" src="https://img.icons8.com/color/48/000000/database.png">
     <img align="center" alt="Analytics" height="30" width="40" src="https://img.icons8.com/color/48/000000/analytics.png">
   </div>
+  <!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Devluhck/Devluhck/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
