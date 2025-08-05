@@ -10,7 +10,7 @@
 
   - 🌱 I'm currently studying Análise e Desenvolvimento de Sistemas at SENAI/SC <img align="center" alt="SENAI" src="https://img.shields.io/badge/SENAI-0052CC?style=for-the-badge&logo=education&logoColor=white" />
 
-  - 🔭 I am looking for opportunities to grow as a Back-End Developer. My passion is building robust and scalable web applications.
+  - 🔭 I am looking for opportunities to grow as a Full Stack Developer. My passion is building robust and scalable web applications.
 </p>
 
 <!-- Dropdown -->
