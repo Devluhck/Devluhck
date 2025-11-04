@@ -6,21 +6,23 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Lucas! A passionate Back-End Developer from Brazil.
+  Hi 👋, I'm Lucas! I'm a Back-End Developer from Brazil, focused on building efficient and scalable web applications.
 
-  - 🌱 I'm currently studying Análise e Desenvolvimento de Sistemas at SENAI/SC <img align="center" alt="SENAI" src="https://img.shields.io/badge/SENAI-0052CC?style=for-the-badge&logo=education&logoColor=white" />
+  - 🌱 Currently studying <strong>Análise e Desenvolvimento de Sistemas</strong> at SENAI/SC  
+    <img align="center" alt="SENAI" src="https://img.shields.io/badge/SENAI-0052CC?style=for-the-badge&logo=education&logoColor=white" />
 
-  - 🔭 I am looking for opportunities to grow as a Full Stack Developer. My passion is building robust and scalable web applications.
+  - 🔭 Seeking opportunities to grow as a <strong>Full Stack Developer</strong> and contribute to innovative and high-performance projects.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am a Back-End Developer with experience in PHP and MySQL, focused on data analysis and system development. I'm currently studying at SENAI/SC, which is helping me develop important technical skills and a solid foundation in software development and system analysis.
+  - 💬 Back-End Developer with experience in <strong>PHP</strong> and <strong>MySQL</strong>, with a focus on data analysis and system development. My education at <strong>SENAI/SC</strong> has strengthened my technical foundation and understanding of software architecture and development processes.
 
-  - ⚡ I enjoy building web applications and working with databases! I believe that continuous learning and hands-on practice are essential for becoming a better developer. I'm always exploring new technologies and improving my coding skills.
+  - ⚡ I have a strong interest in developing web applications and optimizing database performance. I believe in continuous learning and practical experience as key factors for professional growth, and I’m always exploring new technologies to improve my skills.
 </details>
+
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-freitas-dev-luhck/)
